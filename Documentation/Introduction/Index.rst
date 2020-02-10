@@ -12,6 +12,7 @@ Introduction
 About this document
 ^^^^^^^^^^^^^^^^^^^
 
+Martin hat gesagt, das s muss geändert werden!
 This is a short tutorial for editors. It explains how to create
 pages and content elements. It also details the various types
 of pages and content elements.
